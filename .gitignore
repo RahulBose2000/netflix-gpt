@@ -25,4 +25,4 @@ yarn-error.log*
 
 
 #utils
-/utils/firebase.js
+src/utils/xyz.js
