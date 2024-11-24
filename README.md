@@ -12,7 +12,8 @@
 - Create Signup User Account
 - Implemented Sign in user Api
 - Created Redux Store with userSlice
-- 
+- Register for TMDB and created a new app and get access token
+- make an api call and fetch data
 
 #Features 
 
