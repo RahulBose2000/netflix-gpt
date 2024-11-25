@@ -14,6 +14,11 @@
 - Created Redux Store with userSlice
 - Register for TMDB and created a new app and get access token
 - make an api call and fetch data
+- Custom hook for now playing movies
+- Update store with movies data
+- FetchData for trailer video
+- Update Store with trailer video data
+- Embeded the youtube video make it autoplay and mute
 
 #Features 
 
